@@ -1,13 +1,8 @@
 ### Backend Engineer 👋
 #### I have experience working at ...  
 
-[FITT](https://fitt.kr) (2015.05 ~ 2019.01)
-
-- Co-founder & Developer
-
-[위메프](https://wemakeprice.com) (2019.08 ~ Now)  
-
-- Backend Developer : Catalog & EP(Engine Page)
+- [FITT](https://fitt.kr) (2015.05 ~ 2019.01)
+- [위메프](https://wemakeprice.com) (2019.08 ~ Now)  
 
 #### I'm interested in ...
 
