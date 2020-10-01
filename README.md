@@ -6,7 +6,8 @@
 
 #### I'm interested in ...
 
-- Spring
+- 팀의 개발문화 발전시켜나가기 (https://taes-k.github.io/2020/04/08/good-development-culture/)
+- 효율적인 자원의 활용, Reactive programming
 - MSA
 - Column-oriented DB
 
