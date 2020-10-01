@@ -1,5 +1,8 @@
-### Hi there 👋
+### Backend Engineer 👋
 
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://taes-k.github.io/)](https://taes-k.github.io/)
+	
+  
 <!--
 **taes-k/taes-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
