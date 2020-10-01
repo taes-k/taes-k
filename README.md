@@ -4,16 +4,10 @@
 [FITT](https://fitt.kr) (2015.05 ~ 2019.01)
 
 - Co-founder & Developer
-- Developed CRM(Customer Relationship Management) web service for gym
-- Developed healthcare contents platform
-- Developed online-test platform for gym trainer
-
 
 [위메프](https://wemakeprice.com) (2019.08 ~ Now)  
 
 - Backend Developer : Catalog & EP(Engine Page)
-- Developed products catalog system
-- Migrated EP products data from mysql to vertica(Column-oriented DB)
 
 #### I'm interested in ...
 
