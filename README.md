@@ -1,8 +1,8 @@
 ### Backend Engineer 👋
 #### I have experience working at ...  
 
-- [FITT](https://fitt.kr) (2015.05 ~ 2019.01)
 - [위메프](https://wemakeprice.com) (2019.08 ~ Now)  
+- [FITT](https://fitt.kr) (2015.05 ~ 2019.01)
 
 #### I'm interested in ...
 
