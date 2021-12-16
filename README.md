@@ -1,9 +1,4 @@
 ### Backend Engineer 👋
-#### I have experience working at ...  
-
-- [NAVER](https://naver.com) (2021.06 ~ )
-- [위메프](https://wemakeprice.com) (2019.08 ~ 2021.06)  
-- [FITT](https://fitt.kr) (2015.05 ~ 2019.01)
 
 #### I'm interested in ...
 
